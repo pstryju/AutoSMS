@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoSMS</string>
+    <string name="messages_sent">Wysłanych wiadomości</string>
+    <string name="start_service">Uruchom usługę</string>
+    <string name="stop_service">Zatrzymaj usługę</string>
+    <string name="phone_number">Numer telefonu</string>
+    <string name="message_text">Tekst wiadomości</string>
+    <string name="settings">Ustawienia</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="blind_mode">Tryb dla słabo widzących</string>
+</resources>

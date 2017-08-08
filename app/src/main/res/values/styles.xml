@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonBackground">@color/colorAccent</item>
+        <item name="buttonTextColor">@color/colorText</item>
+        <item name="primaryText">@color/colorPrimaryText</item>
+    </style>
+
+    <style name="blindTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/colorBlindPrimary</item>
+        <item name="colorPrimaryDark">@color/colorBlindPrimaryDark</item>
+        <item name="colorAccent">@color/colorBlindAccent</item>
+        <item name="android:windowBackground">@color/colorBlindBackground</item>
+        <item name="android:colorForeground">@color/colorBlindPrimary</item>
+        <item name="android:textColorPrimary">@color/colorBlindPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorBlindSecondaryText</item>
+        <item name="android:colorBackground">@color/colorBlindBackground</item>
+        <item name="buttonBackground">@color/colorBlindAccent</item>
+        <item name="buttonTextColor">@color/colorBlindText</item>
+        <item name="primaryText">@color/colorBlindPrimaryText</item>
+    </style>
+
+
+</resources>
